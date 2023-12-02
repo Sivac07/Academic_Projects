@@ -1,4 +1,4 @@
-import os
+#import os
 def clear_screen():
     # For Windows
     if os.name == 'nt':
