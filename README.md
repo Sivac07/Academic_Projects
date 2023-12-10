@@ -1,2 +1,2 @@
 # Academic_Projects
-Theae are my academic projects.
+These are my academic projects.
